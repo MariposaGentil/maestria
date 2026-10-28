@@ -1,4 +1,4 @@
-# narrative-engine
+# maestria
 
 Asynchronous persistent narrative world. Players share a universe: a character belongs to the setting, not to one campaign, and can appear in someone else's session at another point on their own timeline. A game-master server assembles memory, lore, and time-filtered state, then asks a language model to continue the scene.
 

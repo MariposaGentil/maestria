@@ -1,6 +1,6 @@
 # MVP plan
 
-Working name: **narrative-engine**. An asynchronous persistent narrative world: one shared universe per setting, played from a phone or browser, with the story model running on a local GPU or on Gemini.
+**maestria** is an asynchronous persistent narrative world: one shared universe per setting, played from a phone or browser, with the story model running on a local GPU or on Gemini.
 
 This file is the product source of truth. It compresses the design conversation in [`Arquitectura detrás de AI Dungeon.txt`](Arquitectura%20detrás%20de%20AI%20Dungeon.txt). When the two disagree, this file wins. Open the transcript only to resolve a gap this summary does not cover.
 

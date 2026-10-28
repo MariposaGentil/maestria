@@ -1,6 +1,6 @@
 # Agent configuration
 
-This folder is the vendor-neutral source of truth for agents in narrative-engine. The root [`AGENTS.md`](../AGENTS.md) is the entrypoint and only points here.
+This folder is the vendor-neutral source of truth for agents in maestria. The root [`AGENTS.md`](../AGENTS.md) is the entrypoint and only points here.
 
 Product context is not stored in this folder. Agents load it from the MVP summary, [`docs/mvp.md`](../docs/mvp.md). The original design chat is an archive, not a second spec.
 

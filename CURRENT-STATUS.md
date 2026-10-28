@@ -2,6 +2,8 @@
 
 Last updated: 2026-10-28
 
+Public repository: https://github.com/MariposaGentil/maestria
+
 Design only. No application code, schema, client, or running service.
 
 The product spec is [`docs/mvp.md`](docs/mvp.md). This file records how far the work has gotten and which later choices are settled. It does not restate the plan.
